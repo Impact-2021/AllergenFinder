@@ -46,6 +46,7 @@ The Application Runs on localhost:3000
 npm test
 ```
 
+5. Please Visit : https://allergenfinder.herokuapp.com/
 
 **Resources**
 
